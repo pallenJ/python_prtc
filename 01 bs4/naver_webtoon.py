@@ -4,15 +4,15 @@ import requests
 
 html = requests.get('https://comic.naver.com/webtoon/weekday.nhn');
 soup = bs(html.text,'html.parser')
-data1 = soup.findAll('div',{'class':'col_inner'})[6]
-data2 = data1.findAll('a',{'class':'title'})
+data1_list = soup.findAll('div', {'class': 'col_inner'})#모든 요일에 대해서
 
+week_title_list = [];
+week_title_list2 = [t.text for t in data1_list];
 
-# title_list = []
-# for t in data2 :
-#     title_list.append(t.text);
-title_list = [t.text for t in data2]
+for data1 in data1_list :
+    data2 = data1.findAll('a', {'class': 'title'})
+    title_list = [t.text for t in data2]
+    week_title_list.append(title_list);
 
-
-pprint(title_list)
+pprint(week_title_list)
 html.close();
