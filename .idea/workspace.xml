@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            <state relative-caret-position="418">
+              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -71,10 +71,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -267,7 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583664754418</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="간단히 제목과 이미지 리스트 추출">
+      <created>1583736201147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583736201147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="간단히 제목과 이미지 링크 추출">
+      <created>1583736438449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583736438449</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,7 +312,9 @@
     <MESSAGE value="네이버 웹툰 제목 크롤링 예제" />
     <MESSAGE value="for문 수정" />
     <MESSAGE value="모든 요일 제목 가져옴" />
-    <option name="LAST_COMMIT_MESSAGE" value="모든 요일 제목 가져옴" />
+    <MESSAGE value="간단히 제목과 이미지 리스트 추출" />
+    <MESSAGE value="간단히 제목과 이미지 링크 추출" />
+    <option name="LAST_COMMIT_MESSAGE" value="간단히 제목과 이미지 링크 추출" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml">
@@ -340,8 +355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        <state relative-caret-position="418">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

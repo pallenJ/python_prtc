@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup as bs
 from pprint import pprint
+from urllib.request import urlretrieve
 import requests
+
 
 html = requests.get('https://comic.naver.com/webtoon/weekday.nhn');
 soup = bs(html.text,'html.parser')
@@ -17,4 +19,5 @@ for li in li_list :
     img = li.find('img')
     title = img['title']
     img_src = img['src']
-    pprint(title+' '+img_src)
+    print(title,img_src)
+    urlretrieve(img_src,title+'.jpg') #주소, 파일경로 + 파일명+확장자
