@@ -11,4 +11,10 @@ li_list = []
 for data1 in data1_list:
     #제목과 썸네일 추출
     li_list.extend(data1.findAll('li')) #extend로 하나씩 다 추가
-pprint(li_list);
+#pprint(li_list);
+
+for li in li_list :
+    img = li.find('img')
+    title = img['title']
+    img_src = img['src']
+    pprint(title+' '+img_src)
