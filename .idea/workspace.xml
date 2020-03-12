@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02 selenium/color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 selenium/color_bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,14 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/color.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="644">
+              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02 selenium/color_bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -90,6 +99,7 @@
         <option value="$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py" />
         <option value="$PROJECT_DIR$/02 selenium/1to50.py" />
         <option value="$PROJECT_DIR$/02 selenium/color.py" />
+        <option value="$PROJECT_DIR$/02 selenium/color_bot.py" />
       </list>
     </option>
   </component>
@@ -150,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.color">
+  <component name="RunManager" selected="Python.color_bot">
     <configuration name="1to50" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="naver_webtoon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="color_bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01 bs4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01 bs4/naver_webtoon.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 selenium/color_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.color_bot" />
         <item itemvalue="Python.color" />
         <item itemvalue="Python.1to50" />
         <item itemvalue="Python.auto_yutube" />
         <item itemvalue="Python.naver_webtoon_Thumbnail" />
-        <item itemvalue="Python.naver_webtoon" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583829501412</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="색맹테스트 시작, 백그라운드 컬러 추출">
+      <created>1583982205346</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583982205346</updated>
+    </task>
+    <task id="LOCAL-00016" summary="색맹테스트 구현. 단 최적화가 필요.">
+      <created>1583983233700</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1583983233700</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,7 +440,9 @@
     <MESSAGE value="유튜브 키워드 검색 완료" />
     <MESSAGE value="1 to 50 페이지 분석 및 버튼 가져오기" />
     <MESSAGE value="1 to 50 자동화 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 to 50 자동화 완료" />
+    <MESSAGE value="색맹테스트 시작, 백그라운드 컬러 추출" />
+    <MESSAGE value="색맹테스트 구현. 단 최적화가 필요." />
+    <option name="LAST_COMMIT_MESSAGE" value="색맹테스트 구현. 단 최적화가 필요." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -474,11 +500,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/color.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="644">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/color_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
         </state>
       </provider>
     </entry>
