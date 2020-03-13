@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02 selenium/twitch_clip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 selenium/twitch_clip.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 selenium/twitch_clip.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/twitch_clip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+            <state relative-caret-position="131">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -419,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583983601455</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="트위치 비디오태그로 가져오기">
+      <created>1584077568724</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1584077568724</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -463,7 +470,8 @@
     <MESSAGE value="색맹테스트 시작, 백그라운드 컬러 추출" />
     <MESSAGE value="색맹테스트 구현. 단 최적화가 필요." />
     <MESSAGE value="색맹테스트 끝. 클래스 네임으로 하는게 더 빠름. 사이트의 분석을 통해 정석보다 빠른길을 찾을 수 있음." />
-    <option name="LAST_COMMIT_MESSAGE" value="색맹테스트 끝. 클래스 네임으로 하는게 더 빠름. 사이트의 분석을 통해 정석보다 빠른길을 찾을 수 있음." />
+    <MESSAGE value="트위치 비디오태그로 가져오기" />
+    <option name="LAST_COMMIT_MESSAGE" value="트위치 비디오태그로 가져오기" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -522,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 selenium/auto_yutube.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/color_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -536,10 +537,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/auto_yutube.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/twitch_clip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+        <state relative-caret-position="131">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
