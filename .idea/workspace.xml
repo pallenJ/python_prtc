@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py" line="33" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
+    <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="영상 다운로드까지 완료">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02 selenium/twitch_clip.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 selenium/twitch_clip.py" afterDir="false" />
     </list>
@@ -19,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01 bs4/naver_dust.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state>
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -31,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01 bs4/naver_webtoon.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state>
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -43,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/1to50.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state>
               <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
             </state>
           </provider>
@@ -52,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/color.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
+            <state>
               <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -64,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/color_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state>
               <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
@@ -73,10 +73,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/twitch_clip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="190">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="57" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/auto_yutube.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state>
               <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
@@ -152,7 +152,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -426,7 +426,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584077568724</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="영상제목/날짜 가져오기 완료">
+      <created>1584078402050</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1584078402050</updated>
+    </task>
+    <task id="LOCAL-00020" summary="영상 다운로드까지 완료">
+      <created>1584078794022</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584078794022</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -471,7 +485,9 @@
     <MESSAGE value="색맹테스트 구현. 단 최적화가 필요." />
     <MESSAGE value="색맹테스트 끝. 클래스 네임으로 하는게 더 빠름. 사이트의 분석을 통해 정석보다 빠른길을 찾을 수 있음." />
     <MESSAGE value="트위치 비디오태그로 가져오기" />
-    <option name="LAST_COMMIT_MESSAGE" value="트위치 비디오태그로 가져오기" />
+    <MESSAGE value="영상제목/날짜 가져오기 완료" />
+    <MESSAGE value="영상 다운로드까지 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="영상 다운로드까지 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -495,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01 bs4/naver_dust.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state>
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -505,7 +521,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01 bs4/naver_webtoon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state>
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -515,14 +531,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/1to50.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state>
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/color.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
+        <state>
           <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -532,24 +548,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/color_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state>
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/auto_yutube.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state>
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/twitch_clip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="190">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="57" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>

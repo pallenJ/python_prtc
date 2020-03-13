@@ -4,8 +4,11 @@ from urllib.request import urlretrieve
 
 from selenium import webdriver
 
+options = webdriver.ChromeOptions()
+options.add_argument('headless') #headless를 설정할때는 반드시 driver.close()를 해줘야함
+options.add_argument('window-size=1920x1080')
 
-driver = webdriver.Chrome('chromedriver')
+driver = webdriver.Chrome('chromedriver', chrome_options=options) # 옵션 설정해줌
 driver.get('https://www.twitch.tv/soorte214/clip/AgileGracefulCheesecakePeteZarollTie')
 
 time.sleep(3)
