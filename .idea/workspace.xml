@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03 smtp/gmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 smtp/gmail.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -479,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584261427476</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="구글 smtp 이메일 보내기 완료(비밀번호 일부러 비움)">
+      <created>1584261880549</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1584261880549</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -529,7 +535,8 @@
     <MESSAGE value="크롬창 숨겨서 실행 설정 완료" />
     <MESSAGE value="email 보내기 시작" />
     <MESSAGE value="email 보내기전 보낼내용 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="email 보내기전 보낼내용 테스트" />
+    <MESSAGE value="구글 smtp 이메일 보내기 완료(비밀번호 일부러 비움)" />
+    <option name="LAST_COMMIT_MESSAGE" value="구글 smtp 이메일 보내기 완료(비밀번호 일부러 비움)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
