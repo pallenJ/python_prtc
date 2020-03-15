@@ -472,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584261199079</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="email 보내기전 보낼내용 테스트">
+      <created>1584261427475</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1584261427476</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -521,7 +528,8 @@
     <MESSAGE value="영상 다운로드까지 완료" />
     <MESSAGE value="크롬창 숨겨서 실행 설정 완료" />
     <MESSAGE value="email 보내기 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="email 보내기 시작" />
+    <MESSAGE value="email 보내기전 보낼내용 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="email 보내기전 보낼내용 테스트" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
