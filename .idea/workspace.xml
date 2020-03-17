@@ -4,9 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/01 bs4/naver_webtoon_Thumbnail.py" line="33" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="구글 이메일 마지막 테스트 인증">
-      <change afterPath="$PROJECT_DIR$/04 naverapi/cfr.py" afterDir="false" />
+    <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/04 naverapi/test2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 naverapi/cfr.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 naverapi/cfr.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +20,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04 naverapi/cfr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="209">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,6 +107,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\준모\python_prtc\04 naverapi" />
       <recent name="C:\Users\준모\python_prtc\03 smtp" />
       <recent name="C:\Users\준모\python_prtc\02 selenium" />
       <recent name="C:\Users\준모\python_prtc\01 bs4" />
@@ -440,19 +442,26 @@
       <option name="project" value="LOCAL" />
       <updated>1584340750059</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="네이버 얼굴인식 예제 시작">
+      <created>1584425275681</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1584425275681</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -468,7 +477,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="네이버 웹툰 제목 크롤링 예제" />
     <MESSAGE value="for문 수정" />
     <MESSAGE value="모든 요일 제목 가져옴" />
     <MESSAGE value="간단히 제목과 이미지 리스트 추출" />
@@ -493,7 +501,8 @@
     <MESSAGE value="이메일 인증샷 및 누락된 파일 몇개 추가커밋" />
     <MESSAGE value="구글 이메일 파일첨부하기" />
     <MESSAGE value="구글 이메일 마지막 테스트 인증" />
-    <option name="LAST_COMMIT_MESSAGE" value="구글 이메일 마지막 테스트 인증" />
+    <MESSAGE value="네이버 얼굴인식 예제 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="네이버 얼굴인식 예제 시작" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -604,10 +613,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04 naverapi/cfr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
