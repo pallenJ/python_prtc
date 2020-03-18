@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04 naverapi/test2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 naverapi/papago.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 naverapi/cfr.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 naverapi/cfr.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 naverapi/cfr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04 naverapi/papago.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="124" selection-start-line="9" selection-start-column="124" selection-end-line="9" selection-end-column="124" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -54,6 +65,7 @@
         <option value="$PROJECT_DIR$/03 smtp/gmail.py" />
         <option value="$PROJECT_DIR$/03 smtp/gmail_file.py" />
         <option value="$PROJECT_DIR$/04 naverapi/cfr.py" />
+        <option value="$PROJECT_DIR$/04 naverapi/papago.py" />
       </list>
     </option>
   </component>
@@ -126,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cfr">
+  <component name="RunManager" selected="Python.papago">
     <configuration name="cfr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,27 +152,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 naverapi/cfr.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="color_bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_prtc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 selenium/color_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,6 +202,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="papago" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_prtc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 naverapi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 naverapi/papago.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="twitch_clip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.papago" />
         <item itemvalue="Python.cfr" />
         <item itemvalue="Python.gmail_file" />
         <item itemvalue="Python.gmail" />
         <item itemvalue="Python.twitch_clip" />
-        <item itemvalue="Python.color_bot" />
       </list>
     </recent_temporary>
   </component>
@@ -449,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584425275681</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="유명인 API 테스트 완료.&#10;얼굴 테스트는 정확하나 유명인은 부정확">
+      <created>1584425952321</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1584425952321</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -477,7 +496,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="for문 수정" />
     <MESSAGE value="모든 요일 제목 가져옴" />
     <MESSAGE value="간단히 제목과 이미지 리스트 추출" />
     <MESSAGE value="간단히 제목과 이미지 링크 추출" />
@@ -502,7 +520,8 @@
     <MESSAGE value="구글 이메일 파일첨부하기" />
     <MESSAGE value="구글 이메일 마지막 테스트 인증" />
     <MESSAGE value="네이버 얼굴인식 예제 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="네이버 얼굴인식 예제 시작" />
+    <MESSAGE value="유명인 API 테스트 완료.&#10;얼굴 테스트는 정확하나 유명인은 부정확" />
+    <option name="LAST_COMMIT_MESSAGE" value="유명인 API 테스트 완료.&#10;얼굴 테스트는 정확하나 유명인은 부정확" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -575,9 +594,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03 smtp/gmail/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03 smtp/gmail/__init__.py" />
     <entry file="file://$PROJECT_DIR$/02 selenium/twitch_clip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -613,8 +630,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04 naverapi/cfr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 naverapi/papago.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="124" selection-start-line="9" selection-start-column="124" selection-end-line="9" selection-end-column="124" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
