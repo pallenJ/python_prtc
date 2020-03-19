@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04 naverapi/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 gdrive/gdrive_uploade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 gdrive/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 gdrive/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 gdrive/translate.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 naverapi/papago.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 naverapi/papago.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 naverapi/papago.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -43,7 +45,25 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 naverapi/translate.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05 gdrive/source.txt">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05 gdrive/gdrive_uploade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -82,6 +102,7 @@
         <option value="$PROJECT_DIR$/04 naverapi/cfr.py" />
         <option value="$PROJECT_DIR$/04 naverapi/source.txt" />
         <option value="$PROJECT_DIR$/04 naverapi/papago.py" />
+        <option value="$PROJECT_DIR$/05 gdrive/gdrive_uploade.py" />
       </list>
     </option>
   </component>
@@ -116,12 +137,12 @@
             <path>
               <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="03 smtp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="04 naverapi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="04 naverapi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="05 gdrive" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -135,11 +156,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\준모\python_prtc\05 gdrive" />
       <recent name="C:\Users\준모\python_prtc\04 naverapi" />
       <recent name="C:\Users\준모\python_prtc\03 smtp" />
       <recent name="C:\Users\준모\python_prtc\02 selenium" />
       <recent name="C:\Users\준모\python_prtc\01 bs4" />
-      <recent name="C:\Users\준모\python_prtc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -154,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.papago">
+  <component name="RunManager" selected="Python.gdrive_uploade">
     <configuration name="cfr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +189,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 naverapi/cfr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gdrive_uploade" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_prtc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 gdrive" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 gdrive/gdrive_uploade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,34 +281,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="twitch_clip" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_prtc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 selenium/twitch_clip.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gdrive_uploade" />
         <item itemvalue="Python.papago" />
         <item itemvalue="Python.cfr" />
         <item itemvalue="Python.gmail_file" />
         <item itemvalue="Python.gmail" />
-        <item itemvalue="Python.twitch_clip" />
       </list>
     </recent_temporary>
   </component>
@@ -491,12 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584515882341</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="파파고 메모장 읽어서 번역 텍스트 만들기 완료">
+      <created>1584516382747</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1584516382747</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -519,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="간단히 제목과 이미지 리스트 추출" />
     <MESSAGE value="간단히 제목과 이미지 링크 추출" />
     <MESSAGE value="특수문자가 포함된 경우 제외 다운로드 코드 완료" />
     <MESSAGE value="특수문자가 포함된 경우 다운로드 코드 완료" />
@@ -544,7 +570,8 @@
     <MESSAGE value="네이버 얼굴인식 예제 시작" />
     <MESSAGE value="유명인 API 테스트 완료.&#10;얼굴 테스트는 정확하나 유명인은 부정확" />
     <MESSAGE value="파파고 구현 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="파파고 구현 완료" />
+    <MESSAGE value="파파고 메모장 읽어서 번역 텍스트 만들기 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="파파고 메모장 읽어서 번역 텍스트 만들기 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -668,9 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04 naverapi/translate.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/04 naverapi/papago.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -678,6 +702,26 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 naverapi/translate.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 gdrive/source.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 gdrive/gdrive.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 gdrive/gdrive_uploade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
         </state>
       </provider>
     </entry>
