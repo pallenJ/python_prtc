@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06 firebase/firebase_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 firebase/firebase_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/06 firebase/firebase_ex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+            <state relative-caret-position="190">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -536,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584613200850</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="파이어베이스 기본환경 설정">
+      <created>1584676450047</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1584676450047</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -564,7 +571,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="특수문자가 포함된 경우 제외 다운로드 코드 완료" />
     <MESSAGE value="특수문자가 포함된 경우 다운로드 코드 완료" />
     <MESSAGE value="디렉토리를 만들어서 저장" />
     <MESSAGE value="주석으로 간단한 설명 + 셀레니움 설정" />
@@ -589,7 +595,8 @@
     <MESSAGE value="파파고 구현 완료" />
     <MESSAGE value="파파고 메모장 읽어서 번역 텍스트 만들기 완료" />
     <MESSAGE value="GDRIVE 실습중 문제발생. 로그인 안됨." />
-    <option name="LAST_COMMIT_MESSAGE" value="GDRIVE 실습중 문제발생. 로그인 안됨." />
+    <MESSAGE value="파이어베이스 기본환경 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="파이어베이스 기본환경 설정" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -748,8 +755,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        <state relative-caret-position="190">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
