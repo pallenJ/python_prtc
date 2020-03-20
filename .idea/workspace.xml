@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/06 firebase/firebase_ex2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 firebase/firebase_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/06 firebase/firebase_ex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,14 +63,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -113,6 +122,7 @@
         <option value="$PROJECT_DIR$/04 naverapi/papago.py" />
         <option value="$PROJECT_DIR$/05 gdrive/gdrive_uploade.py" />
         <option value="$PROJECT_DIR$/06 firebase/firebase_ex.py" />
+        <option value="$PROJECT_DIR$/06 firebase/firebase_ex2.py" />
       </list>
     </option>
   </component>
@@ -166,11 +176,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\준모\python_prtc\06 firebase" />
       <recent name="C:\Users\준모\python_prtc\05 gdrive" />
       <recent name="C:\Users\준모\python_prtc\04 naverapi" />
       <recent name="C:\Users\준모\python_prtc\03 smtp" />
       <recent name="C:\Users\준모\python_prtc\02 selenium" />
-      <recent name="C:\Users\준모\python_prtc\01 bs4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -185,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.firebase_ex">
+  <component name="RunManager" selected="Python.firebase_ex2">
     <configuration name="cfr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,6 +238,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="firebase_ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_prtc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 firebase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 firebase/firebase_ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="gdrive_uploade" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,27 +272,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 gdrive/gdrive_uploade.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gmail_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_prtc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 smtp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 smtp/gmail_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.firebase_ex2" />
         <item itemvalue="Python.firebase_ex" />
         <item itemvalue="Python.gdrive_uploade" />
         <item itemvalue="Python.papago" />
         <item itemvalue="Python.cfr" />
-        <item itemvalue="Python.gmail_file" />
       </list>
     </recent_temporary>
   </component>
@@ -543,19 +553,33 @@
       <option name="project" value="LOCAL" />
       <updated>1584676450047</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="업데이트 실습">
+      <created>1584676851414</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1584676851414</updated>
+    </task>
+    <task id="LOCAL-00035" summary="업데이트 실습2">
+      <created>1584677152489</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1584677152489</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -571,8 +595,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="특수문자가 포함된 경우 다운로드 코드 완료" />
-    <MESSAGE value="디렉토리를 만들어서 저장" />
     <MESSAGE value="주석으로 간단한 설명 + 셀레니움 설정" />
     <MESSAGE value="유튜브 키워드 검색 완료" />
     <MESSAGE value="1 to 50 페이지 분석 및 버튼 가져오기" />
@@ -596,7 +618,9 @@
     <MESSAGE value="파파고 메모장 읽어서 번역 텍스트 만들기 완료" />
     <MESSAGE value="GDRIVE 실습중 문제발생. 로그인 안됨." />
     <MESSAGE value="파이어베이스 기본환경 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="파이어베이스 기본환경 설정" />
+    <MESSAGE value="업데이트 실습" />
+    <MESSAGE value="업데이트 실습2" />
+    <option name="LAST_COMMIT_MESSAGE" value="업데이트 실습2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -755,11 +779,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
