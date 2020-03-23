@@ -52,3 +52,12 @@ for idx, link in tqdm(enumerate(rs)) :
 
 print('다운로드 완료')
 
+
+# 압축
+zip_file = zipfile.ZipFile('./{}.zip'.format(keyword),'w')
+
+print(os.listdir('./{}'.format(keyword)))
+for image in os.listdir('./{}'.format(keyword)):
+    zip_file.write('./{}/{}'.format(keyword,image),compress_type=zipfile.ZIP_DEFLATED)
+zip_file.close()
+print('압축완료')
