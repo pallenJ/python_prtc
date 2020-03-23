@@ -17,30 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 naverapi/cfr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 naverapi/papago.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 naverapi/translate.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -87,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/naver_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="473">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -596,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584770560094</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="스크롤 완료">
+      <created>1584865885459</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1584865885459</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -624,7 +607,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="1 to 50 자동화 완료" />
     <MESSAGE value="색맹테스트 시작, 백그라운드 컬러 추출" />
     <MESSAGE value="색맹테스트 구현. 단 최적화가 필요." />
     <MESSAGE value="색맹테스트 끝. 클래스 네임으로 하는게 더 빠름. 사이트의 분석을 통해 정석보다 빠른길을 찾을 수 있음." />
@@ -649,7 +631,8 @@
     <MESSAGE value="get 실습" />
     <MESSAGE value="웹 입문편 완료 웹활용 승급편 수강시작" />
     <MESSAGE value="셀레니움으로 연예인 이미지 한번에 수집하기 완료. 다음은 스크롤 및 압축 실습" />
-    <option name="LAST_COMMIT_MESSAGE" value="셀레니움으로 연예인 이미지 한번에 수집하기 완료. 다음은 스크롤 및 압축 실습" />
+    <MESSAGE value="스크롤 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="스크롤 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -826,10 +809,19 @@
     <entry file="file://$PROJECT_DIR$/02 selenium/마마무/마마무6.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/러블리즈/러블리즈6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/러블리즈/러블리즈2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/러블리즈/러블리즈0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/naver_image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="473">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
