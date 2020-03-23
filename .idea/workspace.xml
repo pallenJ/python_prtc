@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/naver_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="511">
+              <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -579,19 +579,33 @@
       <option name="project" value="LOCAL" />
       <updated>1584865885459</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="tqdm까지 적용 완료 다음은 압축">
+      <created>1584927582890</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1584927582890</updated>
+    </task>
+    <task id="LOCAL-00041" summary="압축완료">
+      <created>1584927911291</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1584927911291</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,8 +621,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="색맹테스트 시작, 백그라운드 컬러 추출" />
-    <MESSAGE value="색맹테스트 구현. 단 최적화가 필요." />
     <MESSAGE value="색맹테스트 끝. 클래스 네임으로 하는게 더 빠름. 사이트의 분석을 통해 정석보다 빠른길을 찾을 수 있음." />
     <MESSAGE value="트위치 비디오태그로 가져오기" />
     <MESSAGE value="영상제목/날짜 가져오기 완료" />
@@ -632,7 +644,9 @@
     <MESSAGE value="웹 입문편 완료 웹활용 승급편 수강시작" />
     <MESSAGE value="셀레니움으로 연예인 이미지 한번에 수집하기 완료. 다음은 스크롤 및 압축 실습" />
     <MESSAGE value="스크롤 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="스크롤 완료" />
+    <MESSAGE value="tqdm까지 적용 완료 다음은 압축" />
+    <MESSAGE value="압축완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="압축완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -820,8 +834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/naver_image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="511">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
