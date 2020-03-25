@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/02 selenium/piano_bot.py" line="6" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/02 selenium/piano_bot.py" line="27" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/piano_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="475">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -620,11 +620,26 @@
       <option name="project" value="LOCAL" />
       <updated>1585121356279</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="좌표를 이용한 피아노게임 자동화 완료. 그러나 제어하기에 부적합.(pyaitoGUI 만으론 마우스 제어가 불완전함.)">
+      <created>1585122219244</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1585122219244</updated>
+    </task>
+    <task id="LOCAL-00045" summary="단축키로 멈춤 시작 완료">
+      <created>1585122947964</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1585122947964</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21691974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -647,8 +662,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="영상제목/날짜 가져오기 완료" />
-    <MESSAGE value="영상 다운로드까지 완료" />
     <MESSAGE value="크롬창 숨겨서 실행 설정 완료" />
     <MESSAGE value="email 보내기 시작" />
     <MESSAGE value="email 보내기전 보낼내용 테스트" />
@@ -672,7 +685,9 @@
     <MESSAGE value="압축완료" />
     <MESSAGE value="함수화 및 마지막 테스트 완료" />
     <MESSAGE value="파이썬 gui, pillow로 피아노 게임 자동화 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="파이썬 gui, pillow로 피아노 게임 자동화 시작" />
+    <MESSAGE value="좌표를 이용한 피아노게임 자동화 완료. 그러나 제어하기에 부적합.(pyaitoGUI 만으론 마우스 제어가 불완전함.)" />
+    <MESSAGE value="단축키로 멈춤 시작 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="단축키로 멈춤 시작 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -870,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/piano_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="475">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
