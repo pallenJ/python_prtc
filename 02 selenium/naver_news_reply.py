@@ -14,7 +14,13 @@ while True:
     try:
         moreShow = driver.find_element_by_css_selector('a.u_cbox_btn_more')
         moreShow.click()
-        time.sleep(1)
+        time.sleep(.3)
     except:
         break
-print('끝')
+print('더보기 끝')
+
+# 댓글 추출
+contents = driver.find_elements_by_css_selector('div.u_cbox_area')
+
+for content in contents :
+    print(content.text)
