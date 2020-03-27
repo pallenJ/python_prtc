@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 selenium/naver_news_reply.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 selenium/naver_news_reply.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="41" selection-start-line="41" selection-end-line="42" selection-end-column="22" />
+            <state relative-caret-position="321">
+              <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -659,19 +658,26 @@
       <option name="project" value="LOCAL" />
       <updated>1585187295701</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="댓글 내용 엑셀로 내보내기 완료">
+      <created>1585189230638</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1585189230638</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.105374075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.105374075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -687,7 +693,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="구글 smtp 이메일 보내기 완료(비밀번호 일부러 비움)" />
     <MESSAGE value="이메일 인증샷 및 누락된 파일 몇개 추가커밋" />
     <MESSAGE value="구글 이메일 파일첨부하기" />
     <MESSAGE value="구글 이메일 마지막 테스트 인증" />
@@ -712,7 +717,8 @@
     <MESSAGE value="화면 특정부분만 캡쳐해서 클릭 실습" />
     <MESSAGE value="댓글 더보기 클릭까지 제어" />
     <MESSAGE value="댓글 내용 및 사용자 정보 가져오기 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="댓글 내용 및 사용자 정보 가져오기 완료" />
+    <MESSAGE value="댓글 내용 엑셀로 내보내기 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="댓글 내용 엑셀로 내보내기 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -930,8 +936,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="41" selection-start-line="41" selection-end-line="42" selection-end-column="22" />
+        <state relative-caret-position="321">
+          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
