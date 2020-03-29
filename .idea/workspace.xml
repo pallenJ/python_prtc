@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 selenium/reply_crawling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 selenium/naver_news_reply.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 selenium/naver_news_reply.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +87,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+            <state relative-caret-position="190">
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -98,12 +109,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py">
+        <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,6 +154,7 @@
         <option value="$PROJECT_DIR$/02 selenium/piano_bot.py" />
         <option value="$PROJECT_DIR$/02 selenium/naver_news_reply.py" />
         <option value="$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py" />
+        <option value="$PROJECT_DIR$/02 selenium/reply_crawling.py" />
       </list>
     </option>
   </component>
@@ -211,28 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.naver_news_reply+bs4">
-    <configuration name="firebase_ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_prtc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 firebase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 firebase/firebase_ex2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.reply_crawling">
     <configuration name="naver_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,13 +308,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="reply_crawling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_prtc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 selenium/reply_crawling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reply_crawling" />
         <item itemvalue="Python.naver_news_reply+bs4" />
         <item itemvalue="Python.naver_news_reply" />
         <item itemvalue="Python.piano_bot" />
         <item itemvalue="Python.naver_image" />
-        <item itemvalue="Python.firebase_ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -337,13 +349,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00002" summary="파이썬 크롤링 예제">
-      <created>1583663099896</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1583663099896</updated>
     </task>
     <task id="LOCAL-00003" summary="네이버 웹툰 제목 크롤링 예제">
       <created>1583664078738</created>
@@ -681,7 +686,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585294678143</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="뉴스 크롤링 마무리. 웹 자동화는 셀레니움이 좋음. 그러나 동적페이지의 경우 html 추출까지는 셀레니움 분석엔 bs를 쓰는게 난이도와 속도의 균형에 좋음.">
+      <created>1585385560362</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1585385560363</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -709,7 +721,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="이메일 인증샷 및 누락된 파일 몇개 추가커밋" />
     <MESSAGE value="구글 이메일 파일첨부하기" />
     <MESSAGE value="구글 이메일 마지막 테스트 인증" />
     <MESSAGE value="네이버 얼굴인식 예제 시작" />
@@ -734,7 +745,8 @@
     <MESSAGE value="댓글 더보기 클릭까지 제어" />
     <MESSAGE value="댓글 내용 및 사용자 정보 가져오기 완료" />
     <MESSAGE value="댓글 내용 엑셀로 내보내기 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="댓글 내용 엑셀로 내보내기 완료" />
+    <MESSAGE value="뉴스 크롤링 마무리. 웹 자동화는 셀레니움이 좋음. 그러나 동적페이지의 경우 html 추출까지는 셀레니움 분석엔 bs를 쓰는게 난이도와 속도의 균형에 좋음." />
+    <option name="LAST_COMMIT_MESSAGE" value="뉴스 크롤링 마무리. 웹 자동화는 셀레니움이 좋음. 그러나 동적페이지의 경우 html 추출까지는 셀레니움 분석엔 bs를 쓰는게 난이도와 속도의 균형에 좋음." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -922,16 +934,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01 bs4/naver_webtoon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -954,10 +956,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="231">
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
