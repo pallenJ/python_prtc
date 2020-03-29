@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02 selenium/reply_crawling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 selenium/reply_crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 selenium/reply_crawling.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,10 +111,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="-192">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -349,20 +349,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00003" summary="네이버 웹툰 제목 크롤링 예제">
-      <created>1583664078738</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1583664078738</updated>
-    </task>
-    <task id="LOCAL-00004" summary="for문 수정">
-      <created>1583664206710</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1583664206710</updated>
     </task>
     <task id="LOCAL-00005" summary="모든 요일 제목 가져옴">
       <created>1583664754418</created>
@@ -693,19 +679,32 @@
       <option name="project" value="LOCAL" />
       <updated>1585385560363</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="뉴스 크롤링 2 시작. 악플 크롤링이 목표.">
+      <created>1585457930632</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1585457930633</updated>
+    </task>
+    <task id="LOCAL-00053" summary="셀레니움은 웹브라우저의 활성화때문에 오래걸리지만 댓글 크롤링 완료(삭제된 댓글 고려)">
+      <created>1585459144346</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1585459144346</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16965227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16965227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -721,8 +720,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="구글 이메일 파일첨부하기" />
-    <MESSAGE value="구글 이메일 마지막 테스트 인증" />
     <MESSAGE value="네이버 얼굴인식 예제 시작" />
     <MESSAGE value="유명인 API 테스트 완료.&#10;얼굴 테스트는 정확하나 유명인은 부정확" />
     <MESSAGE value="파파고 구현 완료" />
@@ -746,7 +743,9 @@
     <MESSAGE value="댓글 내용 및 사용자 정보 가져오기 완료" />
     <MESSAGE value="댓글 내용 엑셀로 내보내기 완료" />
     <MESSAGE value="뉴스 크롤링 마무리. 웹 자동화는 셀레니움이 좋음. 그러나 동적페이지의 경우 html 추출까지는 셀레니움 분석엔 bs를 쓰는게 난이도와 속도의 균형에 좋음." />
-    <option name="LAST_COMMIT_MESSAGE" value="뉴스 크롤링 마무리. 웹 자동화는 셀레니움이 좋음. 그러나 동적페이지의 경우 html 추출까지는 셀레니움 분석엔 bs를 쓰는게 난이도와 속도의 균형에 좋음." />
+    <MESSAGE value="뉴스 크롤링 2 시작. 악플 크롤링이 목표." />
+    <MESSAGE value="셀레니움은 웹브라우저의 활성화때문에 오래걸리지만 댓글 크롤링 완료(삭제된 댓글 고려)" />
+    <option name="LAST_COMMIT_MESSAGE" value="셀레니움은 웹브라우저의 활성화때문에 오래걸리지만 댓글 크롤링 완료(삭제된 댓글 고려)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
@@ -976,10 +975,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="-192">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
