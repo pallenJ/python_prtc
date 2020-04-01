@@ -17,50 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 naverapi/translate.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05 gdrive/source.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05 gdrive/gdrive_uploade.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06 firebase/firebase_ex2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/naver_image.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
@@ -73,22 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 selenium/piano_bot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="51" />
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="51" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -100,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -111,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="454">
+              <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -186,6 +130,18 @@
               <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="02 selenium" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="02 selenium" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="공주" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="02 selenium" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="손해배상" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -349,20 +305,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00005" summary="모든 요일 제목 가져옴">
-      <created>1583664754418</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1583664754418</updated>
-    </task>
-    <task id="LOCAL-00006" summary="간단히 제목과 이미지 리스트 추출">
-      <created>1583736201147</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1583736201147</updated>
     </task>
     <task id="LOCAL-00007" summary="간단히 제목과 이미지 링크 추출">
       <created>1583736438449</created>
@@ -693,18 +635,33 @@
       <option name="project" value="LOCAL" />
       <updated>1585459144346</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="이전에 했던 더보기및 댓글 엑셀출력 복습및 구현 완료">
+      <created>1585460427010</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1585460427010</updated>
+    </task>
+    <task id="LOCAL-00055" summary="특정 키워드가 들어간 댓글 두가지 방법으로 캡쳐 완료.(셀레니움보다 pillow로 JS요소에 접근하는게 더 정확함)">
+      <created>1585633534468</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1585633534468</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16965227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16965227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -720,8 +677,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="네이버 얼굴인식 예제 시작" />
-    <MESSAGE value="유명인 API 테스트 완료.&#10;얼굴 테스트는 정확하나 유명인은 부정확" />
     <MESSAGE value="파파고 구현 완료" />
     <MESSAGE value="파파고 메모장 읽어서 번역 텍스트 만들기 완료" />
     <MESSAGE value="GDRIVE 실습중 문제발생. 로그인 안됨." />
@@ -745,12 +700,11 @@
     <MESSAGE value="뉴스 크롤링 마무리. 웹 자동화는 셀레니움이 좋음. 그러나 동적페이지의 경우 html 추출까지는 셀레니움 분석엔 bs를 쓰는게 난이도와 속도의 균형에 좋음." />
     <MESSAGE value="뉴스 크롤링 2 시작. 악플 크롤링이 목표." />
     <MESSAGE value="셀레니움은 웹브라우저의 활성화때문에 오래걸리지만 댓글 크롤링 완료(삭제된 댓글 고려)" />
-    <option name="LAST_COMMIT_MESSAGE" value="셀레니움은 웹브라우저의 활성화때문에 오래걸리지만 댓글 크롤링 완료(삭제된 댓글 고려)" />
+    <MESSAGE value="이전에 했던 더보기및 댓글 엑셀출력 복습및 구현 완료" />
+    <MESSAGE value="특정 키워드가 들어간 댓글 두가지 방법으로 캡쳐 완료.(셀레니움보다 pillow로 JS요소에 접근하는게 더 정확함)" />
+    <option name="LAST_COMMIT_MESSAGE" value="특정 키워드가 들어간 댓글 두가지 방법으로 캡쳐 완료.(셀레니움보다 pillow로 JS요소에 접근하는게 더 정확함)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/untitled/.idea/modules.xml" />
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/source/01 bs4/naver_dust.py" />
-    <entry file="file://$PROJECT_DIR$/pyhone/__init__.py" />
     <entry file="file://$PROJECT_DIR$/01 bs4/1초.jpg" />
     <entry file="file://$PROJECT_DIR$/01 bs4/2인용인간.jpg" />
     <entry file="file://$PROJECT_DIR$/01 bs4/3cm헌터.jpg" />
@@ -956,7 +910,7 @@
     <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -966,17 +920,53 @@
     <entry file="file://$PROJECT_DIR$/02 selenium/naver_news_reply.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="51" />
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="51" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주26.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주22.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/손해배상/손해배상0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/손해배상/손해배상48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/손해배상/손해배상47.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/손해배상/손해배상45.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/손해배상/손해배상39.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/손해배상/손해배상36.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="454">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
