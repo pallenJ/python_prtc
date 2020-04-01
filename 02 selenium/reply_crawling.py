@@ -79,6 +79,7 @@ def capture_replys(keyword,url,excel_name = None):
     #     replys[k[0]].screenshot('./{0}/{0}{1}.png'.format(keyword,index))
     
     ## 캡쳐하기 - 2.자바스크립트를 이용한 방법
+    print('캡쳐')
     for index, k in enumerate(keyword_result):
         # 화면캡쳐 -> 필요한 요소에 대한 좌표값을 구함
         ## 캡쳐 -> 잘라내기 -> 파일로 저장
