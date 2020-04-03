@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/02 selenium/oneroom_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02 selenium/reply_crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 selenium/reply_crawling.py" afterDir="false" />
     </list>
@@ -55,10 +56,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+            <state relative-caret-position="1616">
+              <caret line="92" column="32" lean-forward="true" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 selenium/oneroom_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,6 +111,9 @@
         <option value="$PROJECT_DIR$/02 selenium/piano_bot.py" />
         <option value="$PROJECT_DIR$/02 selenium/naver_news_reply.py" />
         <option value="$PROJECT_DIR$/02 selenium/naver_news_reply+bs4.py" />
+        <option value="$PROJECT_DIR$/02 selenium/gosi1_sample.py" />
+        <option value="$PROJECT_DIR$/02 selenium/news_ex.py" />
+        <option value="$PROJECT_DIR$/02 selenium/oneroom_ex.py" />
         <option value="$PROJECT_DIR$/02 selenium/reply_crawling.py" />
       </list>
     </option>
@@ -130,18 +146,6 @@
               <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="02 selenium" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="02 selenium" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="공주" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="02 selenium" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="손해배상" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="python_prtc" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -179,8 +183,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reply_crawling">
-    <configuration name="naver_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.oneroom_ex">
+    <configuration name="gosi1_sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +196,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 selenium/naver_image.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\준모\python_prtc\02 selenium\oneroom_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="piano_bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oneroom_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prtc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +259,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 selenium/piano_bot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 selenium/oneroom_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oneroom_ex" />
         <item itemvalue="Python.reply_crawling" />
+        <item itemvalue="Python.gosi1_sample" />
         <item itemvalue="Python.naver_news_reply+bs4" />
         <item itemvalue="Python.naver_news_reply" />
-        <item itemvalue="Python.piano_bot" />
-        <item itemvalue="Python.naver_image" />
       </list>
     </recent_temporary>
   </component>
@@ -305,20 +309,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00007" summary="간단히 제목과 이미지 링크 추출">
-      <created>1583736438449</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1583736438449</updated>
-    </task>
-    <task id="LOCAL-00008" summary="특수문자가 포함된 경우 제외 다운로드 코드 완료">
-      <created>1583736714851</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1583736714851</updated>
     </task>
     <task id="LOCAL-00009" summary="특수문자가 포함된 경우 다운로드 코드 완료">
       <created>1583737086013</created>
@@ -649,7 +639,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585633534468</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="함수화">
+      <created>1585728768707</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1585728768708</updated>
+    </task>
+    <task id="LOCAL-00057" summary="뉴스크롤링 마지막 수정">
+      <created>1585728998080</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1585728998080</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -661,7 +665,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24403471" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -677,8 +681,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="파파고 구현 완료" />
-    <MESSAGE value="파파고 메모장 읽어서 번역 텍스트 만들기 완료" />
     <MESSAGE value="GDRIVE 실습중 문제발생. 로그인 안됨." />
     <MESSAGE value="파이어베이스 기본환경 설정" />
     <MESSAGE value="업데이트 실습" />
@@ -702,10 +704,11 @@
     <MESSAGE value="셀레니움은 웹브라우저의 활성화때문에 오래걸리지만 댓글 크롤링 완료(삭제된 댓글 고려)" />
     <MESSAGE value="이전에 했던 더보기및 댓글 엑셀출력 복습및 구현 완료" />
     <MESSAGE value="특정 키워드가 들어간 댓글 두가지 방법으로 캡쳐 완료.(셀레니움보다 pillow로 JS요소에 접근하는게 더 정확함)" />
-    <option name="LAST_COMMIT_MESSAGE" value="특정 키워드가 들어간 댓글 두가지 방법으로 캡쳐 완료.(셀레니움보다 pillow로 JS요소에 접근하는게 더 정확함)" />
+    <MESSAGE value="함수화" />
+    <MESSAGE value="뉴스크롤링 마지막 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="뉴스크롤링 마지막 수정" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01 bs4/1초.jpg" />
     <entry file="file://$PROJECT_DIR$/01 bs4/2인용인간.jpg" />
     <entry file="file://$PROJECT_DIR$/01 bs4/3cm헌터.jpg" />
     <entry file="file://$PROJECT_DIR$/01 bs4/8월의눈보라.jpg" />
@@ -933,9 +936,6 @@
     <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주14.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주17.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주19.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -963,10 +963,23 @@
     <entry file="file://$PROJECT_DIR$/02 selenium/손해배상/손해배상36.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/공주/공주17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 selenium/oneroom_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/reply_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        <state relative-caret-position="1616">
+          <caret line="92" column="32" lean-forward="true" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>

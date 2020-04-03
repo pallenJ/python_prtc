@@ -117,4 +117,4 @@ def capture_replys(keyword,url,excel_name = None):
     driver.quit()
 
 if __name__ == '__main__':
-    capture_replys(keyword='공주', url='https://news.naver.com/main/ranking/read.nhn?oid=449&aid=0000189238',excel_name='test')
+    capture_replys(keyword='공주', url='https://news.naver.com/main/ranking/read.nhn?oid=449&aid=0000189238')
