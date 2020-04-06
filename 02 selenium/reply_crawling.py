@@ -1,11 +1,12 @@
 from pprint import pprint
 import os
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 import time
 import pandas as pd
+from selenium.webdriver.common.keys import Keys
 from PIL import Image
 from io import BytesIO # 댓글 캡쳐를 위해 함께 필요
+
 
 def capture_replys(keyword,url,excel_name = None):
     #keyword = '손해배상'
