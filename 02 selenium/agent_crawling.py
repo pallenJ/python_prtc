@@ -56,8 +56,8 @@ for i in range(num):
         except:
             count+=1
             print('error',count)
-        if flag:
-            break
+    if flag:
+        break
     # 다음 프로필로 넘기기
     count = 0;
     while True:
