@@ -40,12 +40,24 @@ for i in range(num):
             break
         except:
             p_count+=1
-    p_num = driver.find_element_by_css_selector('span.pagenum').text
-    p_num = int(num.split('/')[0])
-    print('현재 탐색번호: ',p_num)
-
-    if num==p_num:
-        break
+    # 맨 마지막 사람인지 확인
+    count = 0
+    flag = False
+    while True:
+        if count>3:
+            break
+        try:
+            p_num = driver.find_element_by_css_selector('span.pagenum').text
+            p_num = int(p_num.split('/')[0])
+            print('현재 탐색번호: ',p_num)
+            if num==p_num: # 탐색번호와 마지막 번호가 같으면 멈춤
+                flag = True
+            break
+        except:
+            count+=1
+            print('error',count)
+        if flag:
+            break
     # 다음 프로필로 넘기기
     count = 0;
     while True:

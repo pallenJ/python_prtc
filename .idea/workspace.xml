@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5427637-9317-4872-8c9b-a269621ca262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02 selenium/agent_crawling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 selenium/agent_crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 selenium/agent_crawling.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="338">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -280,20 +280,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00011" summary="주석으로 간단한 설명 + 셀레니움 설정">
-      <created>1583826840397</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1583826840398</updated>
-    </task>
-    <task id="LOCAL-00012" summary="유튜브 키워드 검색 완료">
-      <created>1583827986016</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1583827986016</updated>
     </task>
     <task id="LOCAL-00013" summary="1 to 50 페이지 분석 및 버튼 가져오기">
       <created>1583828817991</created>
@@ -624,7 +610,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586164883742</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="부동산 중개사 크롤링 기초부분">
+      <created>1586251697817</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1586251697817</updated>
+    </task>
+    <task id="LOCAL-00061" summary="멈춤 버튼을 누른뒤 한명씩 다음버튼을 누르며 정보를 크롤링하는 예제">
+      <created>1586253125353</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1586253125353</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -636,7 +636,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14967462" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37960956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -671,8 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="업데이트 실습" />
-    <MESSAGE value="업데이트 실습2" />
     <MESSAGE value="get 실습" />
     <MESSAGE value="웹 입문편 완료 웹활용 승급편 수강시작" />
     <MESSAGE value="셀레니움으로 연예인 이미지 한번에 수집하기 완료. 다음은 스크롤 및 압축 실습" />
@@ -696,7 +694,9 @@
     <MESSAGE value="뉴스크롤링 마지막 수정" />
     <MESSAGE value="네이버부동산 상도동 원룸 크롤링 예제" />
     <MESSAGE value="네이버 메인 크롤링 예제" />
-    <option name="LAST_COMMIT_MESSAGE" value="네이버 메인 크롤링 예제" />
+    <MESSAGE value="부동산 중개사 크롤링 기초부분" />
+    <MESSAGE value="멈춤 버튼을 누른뒤 한명씩 다음버튼을 누르며 정보를 크롤링하는 예제" />
+    <option name="LAST_COMMIT_MESSAGE" value="멈춤 버튼을 누른뒤 한명씩 다음버튼을 누르며 정보를 크롤링하는 예제" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01 bs4/8월의눈보라.jpg" />
@@ -983,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="338">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
