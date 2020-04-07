@@ -21,6 +21,44 @@ num = driver.find_element_by_css_selector('span.pagenum').text
 num = int(num.split('/')[-1])
 print('중개사수 : ',num)
 
+print('[정보 추출]')
+rs =[]
+# 중개사들 프로필 저장영역
+for i in range(num):
+    p_count = 0
+    while True :
+        if p_count>3 :
+            break
+        try:
+            profile = driver.find_element_by_css_selector('div.bx_com') # 프로필 영역
+            # 뉴스댓글과 달리 정보의 개수가 다 다를 수 있어서 딕셔너리 사용
+            data = {}
+
+            # 업체명과 대표명, 가능언어
+            data['company'] = profile.find_element_by_css_selector('h5.t_mem').text #업체명
+            print(data)
+            break
+        except:
+            p_count+=1
+    p_num = driver.find_element_by_css_selector('span.pagenum').text
+    p_num = int(num.split('/')[0])
+    print('현재 탐색번호: ',p_num)
+
+    if num==p_num:
+        break
+    # 다음 프로필로 넘기기
+    count = 0;
+    while True:
+        ## 서버가 느린경우도 있으므로 다음버튼을 누르고 딜레이를 발생시켜 기다림
+        try :
+            driver.find_element_by_css_selector('a.btn_next_on').click()
+            #time.sleep(.5)
+            break
+        except:
+            count+=1
+            if(count>3):
+                break
+
 time.sleep(5)
 driver.quit()
 
