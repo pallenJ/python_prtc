@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            <state relative-caret-position="381">
+              <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -280,20 +280,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00013" summary="1 to 50 페이지 분석 및 버튼 가져오기">
-      <created>1583828817991</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1583828817991</updated>
-    </task>
-    <task id="LOCAL-00014" summary="1 to 50 자동화 완료">
-      <created>1583829501412</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1583829501412</updated>
     </task>
     <task id="LOCAL-00015" summary="색맹테스트 시작, 백그라운드 컬러 추출">
       <created>1583982205346</created>
@@ -624,7 +610,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586253125353</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="최대인원 초과현상 수정">
+      <created>1586253964456</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1586253964456</updated>
+    </task>
+    <task id="LOCAL-00063" summary="최대인원 초과현상 수정 완료">
+      <created>1586254874201</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1586254874201</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -671,8 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="get 실습" />
-    <MESSAGE value="웹 입문편 완료 웹활용 승급편 수강시작" />
     <MESSAGE value="셀레니움으로 연예인 이미지 한번에 수집하기 완료. 다음은 스크롤 및 압축 실습" />
     <MESSAGE value="스크롤 완료" />
     <MESSAGE value="tqdm까지 적용 완료 다음은 압축" />
@@ -696,7 +694,9 @@
     <MESSAGE value="네이버 메인 크롤링 예제" />
     <MESSAGE value="부동산 중개사 크롤링 기초부분" />
     <MESSAGE value="멈춤 버튼을 누른뒤 한명씩 다음버튼을 누르며 정보를 크롤링하는 예제" />
-    <option name="LAST_COMMIT_MESSAGE" value="멈춤 버튼을 누른뒤 한명씩 다음버튼을 누르며 정보를 크롤링하는 예제" />
+    <MESSAGE value="최대인원 초과현상 수정" />
+    <MESSAGE value="최대인원 초과현상 수정 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="최대인원 초과현상 수정 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01 bs4/8월의눈보라.jpg" />
@@ -983,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        <state relative-caret-position="381">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

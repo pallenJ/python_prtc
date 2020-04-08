@@ -36,6 +36,8 @@ for i in range(num):
 
             # 업체명과 대표명, 가능언어
             data['company'] = profile.find_element_by_css_selector('h5.t_mem').text #업체명
+            area1 = profile.find_element_by_css_selector('ul.lst_mem > li:nth-child(1)').text
+            data['name'] = area1.split('|')[0][len('대표 '):] #대표명
             print(data)
             break
         except:
