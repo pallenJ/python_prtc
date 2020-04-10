@@ -38,6 +38,12 @@ for i in range(num):
             data['company'] = profile.find_element_by_css_selector('h5.t_mem').text #업체명
             area1 = profile.find_element_by_css_selector('ul.lst_mem > li:nth-child(1)').text
             data['name'] = area1.split('|')[0][len('대표 '):] #대표명
+            if '가능' in area1:
+                data['lang'] = area1.split('|')[1][:-3] #대표|가능한 외국어
+            area2 = profile.find_element_by_css_selector('ul.lst_mem > li:nth-child(2)').text
+            phones = area2[3:].split(' / ')
+            for index , phone in enumerate(phones):
+                data['phone{}'.format(index+1)] = phone
             print(data)
             break
         except:

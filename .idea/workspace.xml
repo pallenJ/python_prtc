@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+            <state relative-caret-position="503">
+              <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -280,13 +280,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00015" summary="색맹테스트 시작, 백그라운드 컬러 추출">
-      <created>1583982205346</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1583982205346</updated>
     </task>
     <task id="LOCAL-00016" summary="색맹테스트 구현. 단 최적화가 필요.">
       <created>1583983233700</created>
@@ -624,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586254874201</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="대표명 추출">
+      <created>1586340050174</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1586340050174</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -671,7 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="셀레니움으로 연예인 이미지 한번에 수집하기 완료. 다음은 스크롤 및 압축 실습" />
     <MESSAGE value="스크롤 완료" />
     <MESSAGE value="tqdm까지 적용 완료 다음은 압축" />
     <MESSAGE value="압축완료" />
@@ -696,7 +695,8 @@
     <MESSAGE value="멈춤 버튼을 누른뒤 한명씩 다음버튼을 누르며 정보를 크롤링하는 예제" />
     <MESSAGE value="최대인원 초과현상 수정" />
     <MESSAGE value="최대인원 초과현상 수정 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="최대인원 초과현상 수정 완료" />
+    <MESSAGE value="대표명 추출" />
+    <option name="LAST_COMMIT_MESSAGE" value="대표명 추출" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01 bs4/8월의눈보라.jpg" />
@@ -983,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        <state relative-caret-position="503">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
