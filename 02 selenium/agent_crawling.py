@@ -1,7 +1,8 @@
 import time
 from pprint import pprint
-
 from selenium import webdriver
+
+import pandas as pd
 
 url = "https://land.naver.com/article/divisionInfo.nhn?rletTypeCd=A01&tradeTypeCd=&hscpTypeCd=A01%3AA03%3AA04&cortarNo=1171000000"
 
@@ -45,6 +46,7 @@ for i in range(num):
             for index , phone in enumerate(phones):
                 data['phone{}'.format(index+1)] = phone
             print(data)
+            rs.append(data)
             break
         except:
             p_count+=1
@@ -78,6 +80,13 @@ for i in range(num):
             count+=1
             if(count>3):
                 break
+
+# 엑셀저장
+
+print('엑셀저장')
+excel_name = '부동산 중개사'
+data_frame = pd.DataFrame(rs)
+data_frame.to_excel('./{}.xlsx'.format(excel_name),sheet_name=excel_name,startrow=0,header=True)
 
 time.sleep(5)
 driver.quit()
