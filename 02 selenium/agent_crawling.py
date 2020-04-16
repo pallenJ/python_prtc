@@ -34,13 +34,23 @@ for i in range(num):
             profile = driver.find_element_by_css_selector('div.bx_com') # 프로필 영역
             # 뉴스댓글과 달리 정보의 개수가 다 다를 수 있어서 딕셔너리 사용
             data = {}
-
+            #print(profile.text)
             # 업체명과 대표명, 가능언어
             data['company'] = profile.find_element_by_css_selector('h5.t_mem').text #업체명
             area1 = profile.find_element_by_css_selector('ul.lst_mem > li:nth-child(1)').text
+
             data['name'] = area1.split('|')[0][len('대표 '):] #대표명
             if '가능' in area1:
-                data['lang'] = area1.split('|')[1][:-3] #대표|가능한 외국어
+                langs = area1.split('|')[1][:-3] #대표|가능한 외국어(영어 또는 일본어)
+
+                # text = langs.split('어')
+                # data['lang'] = [x+'어' for x in text[:-1]]
+                text = langs.split('어')[:-1]
+                print(langs.text)
+
+                for x in enumerate(text):
+                    data[x+'어'] = 'O'
+
             area2 = profile.find_element_by_css_selector('ul.lst_mem > li:nth-child(2)').text
             phones = area2[3:].split(' / ')
             for index , phone in enumerate(phones):
@@ -86,7 +96,7 @@ for i in range(num):
 print('엑셀저장')
 excel_name = '부동산 중개사'
 data_frame = pd.DataFrame(rs)
-data_frame.to_excel('./{}.xlsx'.format(excel_name),sheet_name=excel_name,startrow=0,header=True)
+data_frame.to_excel('./{}.xlsx'.format(excel_name),sheet_name=excel_name,startrow=0,header=True) # 데이터가 dictionary면 헤더가 없어도 됨
 
 time.sleep(5)
 driver.quit()

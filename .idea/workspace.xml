@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="399">
+              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
@@ -81,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -102,7 +103,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,13 +280,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583661505399</updated>
-    </task>
-    <task id="LOCAL-00017" summary="색맹테스트 끝. 클래스 네임으로 하는게 더 빠름. 사이트의 분석을 통해 정석보다 빠른길을 찾을 수 있음.">
-      <created>1583983601455</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1583983601455</updated>
     </task>
     <task id="LOCAL-00018" summary="트위치 비디오태그로 가져오기">
       <created>1584077568724</created>
@@ -624,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586485624372</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="엑셀파일에 그대로 저장">
+      <created>1586656639442</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1586656639443</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -636,7 +636,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37960956" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37960956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,7 +644,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -671,7 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="tqdm까지 적용 완료 다음은 압축" />
     <MESSAGE value="압축완료" />
     <MESSAGE value="함수화 및 마지막 테스트 완료" />
     <MESSAGE value="파이썬 gui, pillow로 피아노 게임 자동화 시작" />
@@ -696,7 +695,8 @@
     <MESSAGE value="최대인원 초과현상 수정 완료" />
     <MESSAGE value="대표명 추출" />
     <MESSAGE value="전화번호, 대표명등 필요한 정보 모두 추출" />
-    <option name="LAST_COMMIT_MESSAGE" value="전화번호, 대표명등 필요한 정보 모두 추출" />
+    <MESSAGE value="엑셀파일에 그대로 저장" />
+    <option name="LAST_COMMIT_MESSAGE" value="엑셀파일에 그대로 저장" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01 bs4/8월의눈보라.jpg" />
@@ -983,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 selenium/agent_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="399">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
